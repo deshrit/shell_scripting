@@ -1,0 +1,5 @@
+Hello! This my text file.
+'This text is from the script.sh'
+'This text is from the script.sh'
+'This text is from the script.sh'
+'This text is from the script.sh'
